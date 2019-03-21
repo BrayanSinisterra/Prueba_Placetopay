@@ -1,0 +1,16 @@
+{
+    "name": "desarrollador/placetopay",
+    "authors": [
+        {
+            "name": "Brayan Sinisterra",
+            "email": "brayansinisterra96@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Placetopay\\": "src/"
+        }
+    }
+    
+}
